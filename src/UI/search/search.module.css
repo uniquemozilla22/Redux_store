@@ -1,0 +1,10 @@
+.search_navigation{
+    width: 30% !important;
+}
+
+.element_input{
+    border:none;
+    padding:15px;
+    border-radius: 20px;
+    border-color:white;
+}
