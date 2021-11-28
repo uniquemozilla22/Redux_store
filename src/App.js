@@ -1,13 +1,11 @@
 import React from 'react';
 import './App.css';
 import Layout from './layout';
-import { ProductCard } from './UI/card/Card';
 
-function App() {
+const App=()=> {
   return (
     <div className="App">
       <Layout>
-        This is the sdata
       </Layout>
     </div>
   );

@@ -3,8 +3,7 @@
 }
 
 .element_input{
-    border:none;
-    padding:15px;
-    border-radius: 20px;
-    border-color:white;
+    border:none !important;
+    padding:15px !important;
+    border-radius: 20px !important;
 }

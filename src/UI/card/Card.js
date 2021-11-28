@@ -1,5 +1,5 @@
 import React from 'react'
-import { MDBCard, MDBCardBody, MDBCardTitle, MDBCardText, MDBCardImage, MDBBtn, MDBRipple } from 'mdb-react-ui-kit';
+import { MDBCard, MDBCardBody, MDBCardTitle, MDBCardText, MDBCardImage, MDBRipple } from 'mdb-react-ui-kit';
 import { BlueButton } from '../buttons/Buttons';
 import classes from "./Card.module.css"
 
