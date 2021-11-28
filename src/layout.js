@@ -1,12 +1,12 @@
 import React from 'react'
+import Modals from './UI/modals/Modals'
 import Header from './UI/navigation/Header'
-import SideBar from './UI/navigation/SideBar'
 
 const Layout = (props) => {
     return (
         <>
         <Header/>
-        <SideBar/>
+        <Modals/>
         {props.children}
         </>
     )
