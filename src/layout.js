@@ -6,8 +6,8 @@ const Layout = (props) => {
     return (
         <>
         <Header/>
-        <Modals/>
         {props.children}
+        <Modals/>
         </>
     )
 }

@@ -1,9 +1,8 @@
-import ModalTypes from "../../types/modal"
+import ModalTypes from "../../types/ModalTypes"
 
-const toggleSidebar = () =>{
-    return {
-        type:ModalTypes.SIDEBAR
-    }
+
+const toggleSidebar = {
+    type:ModalTypes.SIDEBAR
 }
 
 
